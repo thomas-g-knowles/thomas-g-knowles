@@ -20,3 +20,5 @@ Technology has always been deeply interesting to me from any exposure I have rec
 - :coffee: **Java**: Knowledge of the syntax and data types and the ability to perform fundamental logic within the language.
 
 - :floppy_disk: **SQL/MySQL and MongoDB**: Experience integrating the language/technology into Python and Node.js applications.
+
+- :file: **Markdown**: :smirk:
