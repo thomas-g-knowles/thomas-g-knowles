@@ -21,4 +21,4 @@ Technology has always been deeply interesting to me from any exposure I have rec
 
 - :floppy_disk: **SQL/MySQL and MongoDB**: Experience integrating the language/technology into Python and Node.js applications.
 
-- :file: **Markdown**: :smirk:
+- :page_facing_up: **Markdown**: :smirk:
