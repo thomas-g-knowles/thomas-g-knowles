@@ -4,8 +4,6 @@
 
 ### :scroll: Developer About
 
-I am currently an Apprentice Software Developer, working to acheive a Level 4 Software Developer qualification.
-
 Technology has always been deeply interesting to me from any exposure I recieved to it and so I have decided over past years of my life to study computing and programming both academically and personally.
 
 ##### :keyboard: I have 6 years programming experience spanning over mutliple languages and technologies such as:
@@ -22,11 +20,8 @@ Technology has always been deeply interesting to me from any exposure I recieved
 - **Java**
   - Knowledge of the syntax and data types and the ability to perform fundamental logic within the language.
 
-- **SQL/MySQL**
+- **SQL/MySQL and MongoDB**
   - Experience integrating the language/technology into Python and Node.js applications.
-
-- **MongoDB**
-  - Experience integrating the technology into Node.js applications.
 
 ##### :calendar: Current Time
 
