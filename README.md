@@ -11,7 +11,3 @@ Technology has always been deeply interesting to me from any exposure I have rec
 - **Java**: Knowledge of the syntax and data types and the ability to perform fundamental logic within the language.
 
 - **SQL/MySQL and MongoDB**: Experience integrating the language/technology into Python and Node.js applications.
-
-#### :calendar: Current Time
-
-At this current moment, I am working on the development (code and documentation) of a varitety of desktop application GUI based projects towards my apprenticeship, utilising different technologies and languages such as Python and dwelving into C#.
