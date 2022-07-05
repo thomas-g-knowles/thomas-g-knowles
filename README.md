@@ -1,7 +1,7 @@
 ```Java
 public class HelloGitHub {
   public static void main(String[] args) {
-    str about = ...
+    str about = ...;
     System.out.println(about);
   }
 }
