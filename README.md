@@ -1,3 +1,11 @@
+```Java
+public class HelloGitHub {
+  public static void main(String[] args) {
+    System.out.println(
+  }
+}
+```
+
 ### :scroll: Developer About
 
 Technology has always been deeply interesting to me from any exposure I have recieved to it - I have decided over the past years of my life to study computing and programming both academically and personally.
@@ -11,3 +19,9 @@ Technology has always been deeply interesting to me from any exposure I have rec
 - :coffee: **Java**: Knowledge of the syntax and data types and the ability to perform fundamental logic within the language.
 
 - :floppy_disk: **SQL/MySQL and MongoDB**: Experience integrating the language/technology into Python and Node.js applications.
+
+```Java
+    );
+  }
+}
+```
