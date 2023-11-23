@@ -9,16 +9,16 @@ public class HelloGitHub {
 
 ### :scroll: Developer About
 
-Technology has always been deeply interesting to me from any exposure I have recieved to it - I have decided over the past years of my life to study computing and programming both academically and personally.
+Deeply interested in technlogy and full stack software development.
 
-#### :keyboard: I have 6 years programming experience spanning over mutliple languages and technologies such as:
+#### :keyboard: 6 years programming experience spanning over mutliple languages and technologies such as:
 
-- :snake: **Python**: Thorough experience with the language and certain *modules/packages* such as Tkinter - I have created a diverse multitude of programs for the last 6 years in Python and become quite familiar with its ecosytem.
+- :snake: **Python**
 
-- :coffee::scroll: **JavaScript (Node.js, npm and React) and HTML/CSS**: Experience with developing web-based applications and CLIs (choice based games, database layer apps, etc.).
+- :coffee::scroll: **Web Development: JavaScript/NodeJS, HTML/CSS, ExpressJS, ReactJS, VueJS**
 
-- :coffee: **Java**: Knowledge of the syntax and data types and the ability to perform fundamental logic within the language.
+- :eyes::knife: **C#**: Experience developing a WPF application.
 
-- :floppy_disk: **SQL/MySQL and MongoDB**: Experience integrating the language/technology into Python and Node.js applications.
+- :floppy_disk: **SQL/MySQL and MongoDB**: Experience integrating DB support into Python and Node.js based applications.
 
 - :page_facing_up: **Markdown**: :smirk:
